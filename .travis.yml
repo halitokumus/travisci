@@ -4,4 +4,5 @@ jdk:
   - openjdk7
   - openjdk6
 
+notifications:
 webhooks: http://requestb.in/10rbzwf1
