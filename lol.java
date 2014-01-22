@@ -1,2 +1,1 @@
-public
-hhn
+public static void

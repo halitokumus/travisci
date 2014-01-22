@@ -1,0 +1,2 @@
+<project name="MyProject" default="dist" basedir=".">
+</project>
