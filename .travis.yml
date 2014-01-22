@@ -3,11 +3,7 @@ jdk:
   - oraclejdk7
   - openjdk7
   - openjdk6
-
 notifications:
-  webhooks: 
-    - http://requestb.in/10rbzwf1
-  on_success: always
-  on_failure: always
-  on_start: true
+webhooks:
+- http://requestb.in/10rbzwf1
 			
