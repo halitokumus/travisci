@@ -5,4 +5,7 @@ jdk:
   - openjdk6
 
 notifications:
-webhooks: http://requestb.in/10rbzwf1
+  webhooks: 
+  urls:
+    - http://requestb.in/10rbzwf1
+  on_start: true
