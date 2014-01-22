@@ -5,8 +5,9 @@ jdk:
   - openjdk6
 
 notifications:
-  webhooks: http://requestb.in/10rbzwf1
-    on_success: always # default: always
-    on_failure: always # default: always
-    on_start: true # default: false
+  webhooks: 
+    - http://requestb.in/10rbzwf1
+  on_success: always
+  on_failure: always
+  on_start: true
 			
