@@ -2,4 +2,7 @@
     <description>
         simple example build file
     </description>
+    <target name="dist">
+
+    </target>
 </project>
