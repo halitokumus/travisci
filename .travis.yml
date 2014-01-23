@@ -6,5 +6,5 @@ jdk:
 
 notifications:
   webhooks:
-    - http://jenkins.opsgenie.com:11000/v1/json/travisci?apiKey=c9976b41-d97e-42a4-b862-f54f9a9165ee
+    - http://jenkins.opsgenie.com:11000/v1/json/travisci?apiKey=47f9efe9-2c08-45c7-871d-8dc1a7bf71b8
   on_start: true
