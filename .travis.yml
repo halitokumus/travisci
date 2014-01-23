@@ -8,3 +8,5 @@ notifications:
   webhooks:
     - http://jenkins.opsgenie.com:11000/v1/json/travisci?apiKey=432e93b1-b2c6-4717-b80d-4059e5eafdb1
   on_start: true
+  on_success: always
+  on_failure: always
