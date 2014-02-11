@@ -6,7 +6,7 @@ jdk:
 
 notifications:
   webhooks:
-    - http://jenkins.opsgenie.com:11000/v1/json/travisci?apiKey=6cd90689-d1e2-4408-bda5-37357b2629a1
+    - http://office.ifountain.com/v1/json/travisci?apiKey=81ca4354-8f80-46ab-8446-f9ef2209ad3c
   on_start: true
   on_success: always
   on_failure: always
